@@ -28,3 +28,6 @@ Entrada (antecedentes):
   SE o serviço foi aceitável ENTÃO a gorjeta deve ser média
 
   SE o serviço foi ruim E a comida estava péssima ENTÃO a gorjeta deve ser baixa
+
+# install
+pip install scikit-fuzzy
